@@ -556,26 +556,28 @@ Yosemite National Park offers a range of hiking opportunities. Since you'll be t
 <div id="sequoia"></div>
 
 ## Sequoia National Park
+
 Sequoia National Park, situated in the Southern Sierra Nevada in California, is renowned for its majestic, towering sequoia trees, including the General Sherman Tree, the most massive tree on Earth by volume. The park also offers deep caverns, mountain vistas, and abundant wildlife.
 
 Here are some highlights:
 
-Giant Forest: This area is home to half of the Earth's largest and longest-living trees. It's a marvel seeing these astonishing, thousands-of-years-old sequoias.
+1. **Giant Forest**: This area is home to half of the Earth's largest and longest-living trees. It's a marvel seeing these astonishing, thousands-of-years-old sequoias.
 
-General Sherman Tree: The star of the park, the General Sherman Tree, is the world's largest tree by volume and is estimated to be over 2,000 years old.
+2. **General Sherman Tree**: The star of the park, the General Sherman Tree, is the world's largest tree by volume and is estimated to be over 2,000 years old.
 
-Moro Rock: A granite dome with a staircase that leads to the summit featuring panoramic views of the park (not recommended if scared of heights). It's a relatively short but steep and strenuous hike.
+3. **Moro Rock**: A granite dome with a staircase that leads to the summit featuring panoramic views of the park (not recommended if scared of heights). It's a relatively short but steep and strenuous hike.
 
-Crystal Cave: A beautiful marble cavern featuring stalactites and stalagmites. You can discover it on guided tours during the summer months. It requires an additional ticket and might not be suitable for very young children.
+4. **Crystal Cave**: A beautiful marble cavern featuring stalactites and stalagmites. You can discover it on guided tours during the summer months. It requires an additional ticket and might not be suitable for very young children.
 
-Crescent Meadow: A beautiful, peaceful meadow labeled by naturalist John Muir as the "Gem of the Sierra". Giant sequoias surround the lush meadow. The 1.6-mile loop trail is relatively flat and winds between stunning displays of wildflowers.
+5. **Crescent Meadow**: A beautiful, peaceful meadow labeled by naturalist John Muir as the "Gem of the Sierra". Giant sequoias surround the lush meadow. The 1.6-mile loop trail is relatively flat and winds between stunning displays of wildflowers.
 
-Tunnel Log: A giant sequoia that fell across the road in 1937, it has been tunneled out and now cars can drive right through it, quite a unique experience!
+6. **Tunnel Log**: A giant sequoia that fell across the road in 1937, it has been tunneled out and now cars can drive right through it, quite a unique experience!
 
-Hiking: If you wish to experience the park by foot, the Congress Trail is an easy-moderate 2-mile loop that takes you through groves of enormous sequoias. For a more advanced hike, try the High Sierra Trail which starts from Crescent Meadow and gives you spectacular views over the park, but this may not be suitable with a toddler.
+7. **Hiking**: If you wish to experience the park by foot, the Congress Trail is an easy-moderate 2-mile loop that takes you through groves of enormous sequoias. For a more advanced hike, try the High Sierra Trail which starts from Crescent Meadow and gives you spectacular views over the park, but this may not be suitable with a toddler.
 
 Sequoia National Park has amenities such as visitor centers, museum exhibits, and picnic areas. It's located adjacent to Kings Canyon National Park, and a single entry fee allows you to enter both parks.
 
-Bear in mind, help protect the park by following the Leave No Trace principles, and do not take anything from the park, not even a pine cone. Also be prepared for limited cell service. Lastly, the park is at a high elevation, so you may feel effects from the altitude.
+Bear in mind, help protect the park by following the Leave No Trace principles, and do not take anything from the park, not even a pine cone. Also be prepared for limited cell service.
+Lastly, the park is at a high elevation, so you may feel effects from the altitude.
 
 [Back to Contents](#contents)
