@@ -554,6 +554,7 @@ Yosemite National Park offers a range of hiking opportunities. Since you'll be t
 
 
 <div id="sequoia"></div>
+
 ## Sequoia National Park
 Sequoia National Park, situated in the Southern Sierra Nevada in California, is renowned for its majestic, towering sequoia trees, including the General Sherman Tree, the most massive tree on Earth by volume. The park also offers deep caverns, mountain vistas, and abundant wildlife.
 
